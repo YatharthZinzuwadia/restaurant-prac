@@ -17,7 +17,7 @@ const Header = () => {
     { link: "Home", path: "home" },
     { link: "About", path: "about" },
     { link: "Menu", path: "menu" },
-    { link: "Gallery", path: "gallery" },
+    { link: "Gallery", path: "banner" },
     { link: "Contact", path: "contact" },
   ];
 

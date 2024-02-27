@@ -82,7 +82,6 @@ const Menu = () => {
             data-aos-delay="400"
             className="bg-orange-500 px-8 py-4 rounded-full hover:bg-green-500 hover:text-black font-bold mt-6"
           >
-            {" "}
             ORDER NOW
           </button>
         </div>

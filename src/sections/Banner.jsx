@@ -14,6 +14,7 @@ const Banner = () => {
   });
   return (
     <section
+      id="gallery"
       className="w-full bg-black h-fit flex justify-between items-center text-white px-10 lg:px-40 py-20 bg-cover bg-center"
       style={{ backgroundImage: `url(${banner1})` }}
     >
